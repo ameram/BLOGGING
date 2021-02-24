@@ -295,6 +295,8 @@ fabric.properties
 # SageMath parsed files
 
 # Environments
+.DS_Store
+app/.DS_Store
 
 # Spyder project settings
 
